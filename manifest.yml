@@ -1,0 +1,4 @@
+---
+applications:
+- name: helloworld-2020
+  buildpack: staticfile_buildpack
