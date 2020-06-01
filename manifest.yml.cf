@@ -1,4 +1,4 @@
 ---
 applications:
 - name: helloworld-2020
-  buildpack: org.cloudfoundry.nginx
+  buildpack: staticfile_buildpack
